@@ -1,0 +1,70 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=1190, user-scalable=no"/>
+    <meta charset="utf-8"/>
+    <title>生成PDF</title>
+    <link href="https://assets-cdn.xiangrikui.com/framework/css/reset-1.0.0.css" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="../css/index.less">
+</head>
+<body>
+    <div id="page_vue" v-cloak>
+        <div id="canshu" class="downLoad_btn" @click="begin_fn"><span v-text="button_text"></span></div>
+        <div class="pageMark"></div>
+        <div id="target" v-if="page_all_data && page_all_data.sex">
+            <div class="head hidex ">
+                <img crossOrigin='anonymous' v-if="has_company" :src="page_all_data.companyIntroduction.company_img_url">
+                <p v-html="page_all_data.plan_name"></p>
+            </div>
+            <div class="footer hidex">
+                <p v-if="has_company" >此险种由{{page_all_data.companyIntroduction.name}}承保，服务热线：<span>{{page_all_data.companyIntroduction.hotline}}</span></p>
+                <i class="pageSize">第<span class="pageSize_current">-</span>页/共<span class="pageSize_total">-</span>页</i>
+            </div>
+            <!--  封面 -->
+            <div class="page page_cover active">
+                <h3 class="company_name" v-if="has_company" >{{page_all_data.companyIntroduction.name}}</h3>
+                <div class="plan_box" v-html="page_all_data.plan_name"></div>
+                <div class="user_msg">
+                    <div class="user_msg_sex">被保人性别： <span class="info_value">{{page_all_data.sex}}</span></div>
+                    <div class="user_msg_year">被保人年龄：<span class="info_value">{{page_all_data.years}}岁</span></div>
+                    <div class="user_msg_amount">计划书保额：<span class="info_value" v-html="page_all_data.insurance_amount"></span></div>
+                </div>
+            </div>
+            <!-- 前言 -->
+            <div class="page ">
+                <h3 class="preSay">尊敬的客户：</h3>
+                <div class="send_word" v-if="has_company" ><p>感谢您选择{{page_all_data.companyIntroduction.name}}<br/>您所选择的保险产品计划书详情如下：</p></div>
+
+                <div class="back_color_type"><div>被保人：<span class="back_color_type_span">{{page_all_data.sex}} {{page_all_data.years}}岁</span></div></div>
+                <div class="table-container" v-show="page_all_data.firstTable" v-html="page_all_data.firstTable"></div>
+                <div class="back_color_type total"><div>首年总保费 <span class="back_color_type_span"><i>¥</i>
+                    <span v-html="page_all_data.rateAmount"></span>
+                </span></div></div>
+            </div>
+            <!-- 保障 -->
+            <div class="page typeBaozhang " v-if="page_all_data.baozhangHtml.length>0">
+                <ul class="safeguard">
+                    <li v-for="(bzItem,bzIndex) in page_all_data.baozhangHtml" v-html="bzItem"></li>
+                </ul>
+            </div>
+            <!-- 病种 -->
+            <div class="page typeIll" v-if="page_all_data.diseases && page_all_data.diseasesKey">
+                <ul class="illPage_ul">
+                    <li v-for="(illItem,illIndex) in page_all_data.diseases[page_all_data.diseasesKey]">
+                        <div class="title v1-hide"><p class="title-main">{{illItem.diseases_name}}</p><div class="bottom-line"></div></div>
+                        <div v-html="readIll(illItem)"></div>              
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://assets-cdn.xiangrikui.com/framework/js/jquery-2.1.4.js"></script>
+    <script src="https://assets-cdn.xiangrikui.com/framework/js/vue.js"></script>
+    <script src='https://assets-cdn.xiangrikui.com/framework/js/fastclick.js'></script>
+    <script type="text/javascript" src="../js/jspdf.js"></script>
+    <script type="text/javascript" src="../js/html2canvas.js"></script>
+    <script src="../js/index.es"></script>
+</body>
+</html>

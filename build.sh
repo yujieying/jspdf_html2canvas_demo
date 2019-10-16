@@ -1,0 +1,1 @@
+mkdir ../output & fis3 server start --root ../output --port 1234 --type node & fis3 server clean & fis3 release -wL

@@ -1,0 +1,2160 @@
+{
+    "code": 200,
+    "data":
+    {
+        "shareData_link": "https://baidu.com",
+        "rateAmount": "2566.3",
+        "insurance_amount": "2566元",
+        "diseasesKey":"fix_diseases_jiankang",
+        "diseases":{"fix_diseases_jiankang":[{"diseases_name":"120种重疾","disease_paragraph":"<div>1 恶性肿瘤</div><div>2 急性心肌梗塞</div><div>3 脑中风后遗症</div><div>4 重大器官移植术或造血干细胞移植术</div><div>5 冠状动脉搭桥术</div><div>6 终末期肾病</div><div>7 多个肢体缺失</div><div>8 急性或亚急性重症肝炎</div><div>9 良性脑肿瘤</div><div>10 慢性肝功能衰竭失代偿期</div><div>11 脑炎后遗症或脑膜炎后遗症</div><div>12 深度昏迷</div><div>13 双耳失聪</div><div>14 双目失明</div><div>15 瘫痪</div><div>16 心脏瓣膜手术</div><div>17 严重阿尔茨海默病</div><div>18 严重脑损伤</div><div>19 严重帕金森病</div><div>20 严重Ⅲ度烧伤</div><div>21 严重原发性肺动脉高压</div><div>22 严重运动神经元病</div><div>23 语言能力丧失</div><div>24 重型再生障碍性贫血</div><div>25 主动脉手术</div><div>26 严重原发性心肌病</div><div>27 终末期肺病</div><div>28 严重多发性硬化</div><div>29 因职业关系导致的感染艾滋病病毒或患艾滋病</div><div>30 严重溃疡性结肠炎</div><div>31 重症肌无力</div><div>32 严重类风湿性关节炎</div><div>33 脊髓灰质炎</div><div>34 经输血导致的感染艾滋病病毒或患艾滋病</div><div>35 严重克隆病</div><div>36 肌营养不良症</div><div>37 破裂脑动脉瘤夹闭手术</div><div>38 系统性硬皮病</div><div>39 严重冠心病</div><div>40 严重慢性复发性胰腺炎</div><div>41 持续植物人状态</div><div>42 坏死性筋膜炎</div><div>43 嗜铬细胞瘤</div><div>44 象皮病</div><div>45 胰腺移植术</div><div>46 特发性慢性肾上腺皮质功能减退</div><div>47 严重心肌炎</div><div>48 肺源性心脏病</div><div>49 原发性硬化性胆管炎</div><div>50 严重自身免疫性肝炎</div><div>51 原发性骨髓纤维化（PMF）&nbsp;</div><div>52 重症骨髓增生异常综合征</div><div>53 自体造血干细胞移植术</div><div>54 Brugada 综合征</div><div>55 严重急性主动脉夹层血肿</div><div>56 严重慢性缩窄型心包炎</div><div>57 心脏粘液瘤</div><div>58 严重心脏衰竭 CRT 治疗</div><div>59 完全性房室传导阻滞</div><div>60 风湿热导致的心脏瓣膜病变</div><div>61 多发性大动脉炎旁路移植手术</div><div>62 肺淋巴管肌瘤病</div><div>63 严重肺结节病</div><div>64 非阿尔茨海默病所致严重痴呆</div><div>65 进行性核上性麻痹</div><div>66 克雅氏病</div><div>67 亚急性硬化性全脑炎</div><div>68 进行性多灶性白质脑病</div><div>69 丧失独立生活能力</div><div>70 脊髓小脑变性症</div><div>71 神经白塞病</div><div>72 脊髓内肿瘤</div><div>73 亚历山大病</div><div>74 脊髓空洞症</div><div>75 脊髓血管病后遗症</div><div>76 颅脑手术</div><div>77 系统性红斑狼疮并发重度的肾功能损害</div><div>78 严重Ｉ型糖尿病</div><div>79 席汉氏综合征</div><div>80 严重强直性脊柱炎</div><div>81 肾髓质囊性病</div><div>82 肝豆状核变性</div><div>83 急性出血坏死性胰腺炎开腹手术</div><div>84 小肠移植</div><div>85 重症手足口病</div><div>86 严重的结核性脊髓炎</div><div>87 溶血性链球菌引起的坏疽</div><div>88 因器官移植原因导致的感染艾滋病病毒或患艾滋病</div><div>89 埃博拉病毒感染</div><div>90 成骨不全症Ⅲ型</div><div>91 严重川崎病</div><div>92 严重幼年型类风湿性关节炎</div><div>93 疾病或外伤所致智力障碍</div><div>94 严重肠道疾病并发症</div><div>95 严重瑞氏综合征</div><div>96 急性肺损伤（ALI）或急性呼吸窘迫综合征（ARDS）</div><div>97 溶血性尿毒综合征</div><div>98 出血性登革热</div><div>99 严重癫痫症</div><div>100 左室室壁瘤切除手术</div><div>101 侵蚀性葡萄胎</div><div>102 严重感染性心内膜炎</div><div>103 肺泡蛋白质沉积症全肺灌洗治疗</div><div>104 严重面部烧伤</div><div>105 失去一肢及一眼</div><div>106&nbsp;<span>严重哮喘</div><div>107&nbsp;</span><span>严重大动脉炎</div><div>108&nbsp;</span><span>艾森门格综合征</div><div>109&nbsp;</span><span>严重结核性脑膜炎</div><div>110&nbsp;</span><span>急性弥漫性血管内凝血</div><div>111&nbsp;</span><span>败血症导致的多器官功能障碍综合症</div><div>112&nbsp;</span><span>范可尼综合征</div><div>113&nbsp;</span><span>严重继发性肺动脉高压</div><div>114&nbsp;</span><span>严重气性坏疽</div><div>115&nbsp;</span><span>进行性风疹性全脑炎</div><div>116&nbsp;</span><span>多处臂丛神经根性撕脱</div><div>117&nbsp;</span><span>皮质基底节变性</div><div>118&nbsp;</span><span>糖尿病导致双足截除</div><div>119&nbsp;</span><span>闭锁综合征</div><div>120&nbsp;</span>严重巨细胞动脉炎</div>","diseases":[{"disease_count":120,"updated_at":"2019-09-27 08:26:28","illness_type":1,"disease_paragraph":"1 恶性肿瘤<br>2 急性心肌梗塞<br>3 脑中风后遗症<br>4 重大器官移植术或造血干细胞移植术<br>5 冠状动脉搭桥术<br>6 终末期肾病<br>7 多个肢体缺失<br>8 急性或亚急性重症肝炎<br>9 良性脑肿瘤<br>10 慢性肝功能衰竭失代偿期<br>11 脑炎后遗症或脑膜炎后遗症<br>12 深度昏迷<br>13 双耳失聪<br>14 双目失明<br>15 瘫痪<br>16 心脏瓣膜手术<br>17 严重阿尔茨海默病<br>18 严重脑损伤<br>19 严重帕金森病<br>20 严重Ⅲ度烧伤<br>21 严重原发性肺动脉高压<br>22 严重运动神经元病<br>23 语言能力丧失<br>24 重型再生障碍性贫血<br>25 主动脉手术<br>26 严重原发性心肌病<br>27 终末期肺病<br>28 严重多发性硬化<br>29 因职业关系导致的感染艾滋病病毒或患艾滋病<br>30 严重溃疡性结肠炎<br>31 重症肌无力<br>32 严重类风湿性关节炎<br>33 脊髓灰质炎<br>34 经输血导致的感染艾滋病病毒或患艾滋病<br>35 严重克隆病<br>36 肌营养不良症<br>37 破裂脑动脉瘤夹闭手术<br>38 系统性硬皮病<br>39 严重冠心病<br>40 严重慢性复发性胰腺炎<br>41 持续植物人状态<br>42 坏死性筋膜炎<br>43 嗜铬细胞瘤<br>44 象皮病<br>45 胰腺移植术<br>46 特发性慢性肾上腺皮质功能减退<br>47 严重心肌炎<br>48 肺源性心脏病<br>49 原发性硬化性胆管炎<br>50 严重自身免疫性肝炎<br>51 原发性骨髓纤维化（PMF）&nbsp;<br>52 重症骨髓增生异常综合征<br>53 自体造血干细胞移植术<br>54 Brugada 综合征<br>55 严重急性主动脉夹层血肿<br>56 严重慢性缩窄型心包炎<br>57 心脏粘液瘤<br>58 严重心脏衰竭 CRT 治疗<br>59 完全性房室传导阻滞<br>60 风湿热导致的心脏瓣膜病变<br>61 多发性大动脉炎旁路移植手术<br>62 肺淋巴管肌瘤病<br>63 严重肺结节病<br>64 非阿尔茨海默病所致严重痴呆<br>65 进行性核上性麻痹<br>66 克雅氏病<br>67 亚急性硬化性全脑炎<br>68 进行性多灶性白质脑病<br>69 丧失独立生活能力<br>70 脊髓小脑变性症<br>71 神经白塞病<br>72 脊髓内肿瘤<br>73 亚历山大病<br>74 脊髓空洞症<br>75 脊髓血管病后遗症<br>76 颅脑手术<br>77 系统性红斑狼疮并发重度的肾功能损害<br>78 严重Ｉ型糖尿病<br>79 席汉氏综合征<br>80 严重强直性脊柱炎<br>81 肾髓质囊性病<br>82 肝豆状核变性<br>83 急性出血坏死性胰腺炎开腹手术<br>84 小肠移植<br>85 重症手足口病<br>86 严重的结核性脊髓炎<br>87 溶血性链球菌引起的坏疽<br>88 因器官移植原因导致的感染艾滋病病毒或患艾滋病<br>89 埃博拉病毒感染<br>90 成骨不全症Ⅲ型<br>91 严重川崎病<br>92 严重幼年型类风湿性关节炎<br>93 疾病或外伤所致智力障碍<br>94 严重肠道疾病并发症<br>95 严重瑞氏综合征<br>96 急性肺损伤（ALI）或急性呼吸窘迫综合征（ARDS）<br>97 溶血性尿毒综合征<br>98 出血性登革热<br>99 严重癫痫症<br>100 左室室壁瘤切除手术<br>101 侵蚀性葡萄胎<br>102 严重感染性心内膜炎<br>103 肺泡蛋白质沉积症全肺灌洗治疗<br>104 严重面部烧伤<br>105 失去一肢及一眼<br>106&nbsp;<span>严重哮喘<br>107&nbsp;</span><span>严重大动脉炎<br>108&nbsp;</span><span>艾森门格综合征<br>109&nbsp;</span><span>严重结核性脑膜炎<br>110&nbsp;</span><span>急性弥漫性血管内凝血<br>111&nbsp;</span><span>败血症导致的多器官功能障碍综合症<br>112&nbsp;</span><span>范可尼综合征<br>113&nbsp;</span><span>严重继发性肺动脉高压<br>114&nbsp;</span><span>严重气性坏疽<br>115&nbsp;</span><span>进行性风疹性全脑炎<br>116&nbsp;</span><span>多处臂丛神经根性撕脱<br>117&nbsp;</span><span>皮质基底节变性<br>118&nbsp;</span><span>糖尿病导致双足截除<br>119&nbsp;</span><span>闭锁综合征<br>120&nbsp;</span>严重巨细胞动脉炎","diseases":[],"created_at":"2019-04-24 02:45:12","id":"5cbfcdb8c69a9c59e3d3641f","disease_name":"120种重疾","benefit_id":"5cbfcdb8c69a9c59e3d3641e"}]},{"diseases_name":"60种轻症","disease_paragraph":"<div>1 极早期恶性肿瘤或恶性病变</div><div>2 脑垂体瘤、脑囊肿及脑血管瘤</div><div>3 急性心肌梗塞（轻症）</div><div>4 冠状动脉介入手术（非开胸手术）</div><div>5 心脏瓣膜介入手术（非开胸手术）</div><div>6 主动脉内手术（非开胸手术）</div><div>7 特定周围动脉疾病的血管介入治疗</div><div>8 原发性肺动脉高压&nbsp;</div><div>9 瘫痪（轻症）</div><div>10 胆道重建手术</div><div>11 视力严重受损</div><div>12 单目失明</div><div>13 运动神经元病</div><div>14 脑中风后遗症（轻症）</div><div>15 颅脑手术（轻症）</div><div>16 脑损伤</div><div>17 面部重建手术</div><div>18 双侧睾丸切除手术</div><div>19 单侧肾脏切除手术</div><div>20 单个肢体缺失</div><div>21 肝叶切除手术</div><div>22 单侧肺脏切除手术</div><div>23 单耳失聪</div><div>24 Ⅲ度烧伤</div><div>25 面部烧伤</div><div>26 Ⅲ度房室传导阻滞</div><div>27 肺功能衰竭</div><div>28 阻塞性睡眠呼吸暂停综合征</div><div>29 慢性肾功能衰竭</div><div>30 克隆病</div><div>31 颈动脉血管内膜切除术</div><div>32 颈动脉狭窄介入治疗</div><div>33 心包膜切除手术</div><div>34 溃疡性结肠炎</div><div>35 双侧卵巢切除术</div><div>36 原发性心肌病</div><div>37 腔静脉过滤器植入手术</div><div>38 病毒性脑膜炎</div><div>39 早期脑退化症(包括早期阿尔茨海默病)</div><div>40 植入大脑内分流器</div><div>41 结核性脊髓炎</div><div>42 慢性肝功能衰竭</div><div>43 系统性红斑狼疮</div><div>44 系统性硬皮病（轻症）</div><div>45 糖尿病视网膜增生性病变</div><div>46 重症肌无力（轻症）</div><div>47 丝虫感染</div><div>48 类风湿性关节炎</div><div>49 因肾上腺皮脂腺瘤切除肾上腺</div><div>50 再生障碍性贫血</div><div>51 急性出血坏死性胰腺炎腹腔镜手术</div><div>52 原发性帕金森病</div><div>53 骨质疏松骨折导致的全髋关节置换手术</div><div>54 外伤性颅内血肿清除术</div><div>55 肺泡蛋白质沉积症肺灌洗治疗</div><div>56 角膜移植</div><div>57 人工耳蜗植入术</div><div>58 急性重型肝炎人工肝治疗</div><div>59 强直性脊柱炎的特定手术治疗</div><div>60 急性肾衰竭肾脏透析治疗</div>","diseases":[{"disease_count":60,"updated_at":"2019-09-27 08:26:28","illness_type":2,"disease_paragraph":"1 极早期恶性肿瘤或恶性病变<br>2 脑垂体瘤、脑囊肿及脑血管瘤<br>3 急性心肌梗塞（轻症）<br>4 冠状动脉介入手术（非开胸手术）<br>5 心脏瓣膜介入手术（非开胸手术）<br>6 主动脉内手术（非开胸手术）<br>7 特定周围动脉疾病的血管介入治疗<br>8 原发性肺动脉高压&nbsp;<br>9 瘫痪（轻症）<br>10 胆道重建手术<br>11 视力严重受损<br>12 单目失明<br>13 运动神经元病<br>14 脑中风后遗症（轻症）<br>15 颅脑手术（轻症）<br>16 脑损伤<br>17 面部重建手术<br>18 双侧睾丸切除手术<br>19 单侧肾脏切除手术<br>20 单个肢体缺失<br>21 肝叶切除手术<br>22 单侧肺脏切除手术<br>23 单耳失聪<br>24 Ⅲ度烧伤<br>25 面部烧伤<br>26 Ⅲ度房室传导阻滞<br>27 肺功能衰竭<br>28 阻塞性睡眠呼吸暂停综合征<br>29 慢性肾功能衰竭<br>30 克隆病<br>31 颈动脉血管内膜切除术<br>32 颈动脉狭窄介入治疗<br>33 心包膜切除手术<br>34 溃疡性结肠炎<br>35 双侧卵巢切除术<br>36 原发性心肌病<br>37 腔静脉过滤器植入手术<br>38 病毒性脑膜炎<br>39 早期脑退化症(包括早期阿尔茨海默病)<br>40 植入大脑内分流器<br>41 结核性脊髓炎<br>42 慢性肝功能衰竭<br>43 系统性红斑狼疮<br>44 系统性硬皮病（轻症）<br>45 糖尿病视网膜增生性病变<br>46 重症肌无力（轻症）<br>47 丝虫感染<br>48 类风湿性关节炎<br>49 因肾上腺皮脂腺瘤切除肾上腺<br>50 再生障碍性贫血<br>51 急性出血坏死性胰腺炎腹腔镜手术<br>52 原发性帕金森病<br>53 骨质疏松骨折导致的全髋关节置换手术<br>54 外伤性颅内血肿清除术<br>55 肺泡蛋白质沉积症肺灌洗治疗<br>56 角膜移植<br>57 人工耳蜗植入术<br>58 急性重型肝炎人工肝治疗<br>59 强直性脊柱炎的特定手术治疗<br>60 急性肾衰竭肾脏透析治疗<br>","diseases":[],"created_at":"2019-04-24 02:45:12","id":"5cbfcdb8c69a9c59e3d36422","disease_name":"60种轻症","benefit_id":"5cbfcdb8c69a9c59e3d36421"}]}]},
+        "companyIntroduction":
+        {
+            "company_img_url": "https://images-cdn.baidu.com/company/logo/166.jpg",
+            "hotline": "95522",
+            "id": 166,
+            "name": "泰康人寿",
+            "website": "http://www.taikang.com/about/group.html"
+        },
+        "peoInfo":
+        {
+            "avatar": "",
+            "format_phone": "159 8928 8415",
+            "phone": "15989288415",
+            "real_name": "宁谧"
+        },
+        "plan_name": "金佑人生2018",
+        "multi_yanshi": true,
+        "sex": "女",
+        "years": "56",
+        "firstYearFee": "2379元",
+        "firstTable": "<table class='info-detail-list'><thead><tr><th>险种名称</th><th>缴费期</th><th>保障期</th><th>保额</th><th>保费</th></tr></thead><tbody><tr><td>智赢人生（少儿版）年金保险（分红型）</td><td>3年交</td><td>至105岁</td><td>2290</td><td>1万</td></tr><tr><td>鑫账户</td><td>--</td><td>终身</td><td>--</td><td>10</td></tr></tbody></table>",
+        "baozhangHtml": [
+            "<div class='title v1-hide'><p class='title-main'>智赢人生（少儿版）</p><div class='bottom-line'></div></div><div class='list'><div class='item'><div class='inner-hyperTitle'>首领次领多惊喜</div><div class='inner-title'><span class='color_bg point'></span>6岁、7岁，每年领取&nbsp;<span class='color bold'>3000元</span>&nbsp;</div><div class='inner-list  control_hide '><p>第6年初、第7年初给标保的100%</p></div></div><div class='item'><div class='inner-hyperTitle'>年年关怀长持续</div><div class='inner-title'><span class='color_bg point'></span>8岁至64岁，每年领取&nbsp;<span class='color bold'>229元</span>&nbsp;</div><div class='inner-list  control_hide '><p>从第8年至64岁，每年给付基本保额的10%生存金，与养老金无缝衔接，持续给付</p></div></div><div class='item'><div class='inner-hyperTitle'>专属教育强助力</div><div class='inner-title'><span class='color_bg point'></span>18岁至21岁，每年领取&nbsp;<span class='color bold'>3000元</span>&nbsp;</div><div class='inner-list  control_hide '><p>为孩子提供专属的、较高的、确定的教育金</p></div></div><div class='item'><div class='inner-hyperTitle'>三倍领取老无惧</div><div class='inner-title'><span class='color_bg point'></span>65岁至105岁，每年领取&nbsp;<span class='color bold'>687元</span>&nbsp;</div><div class='inner-list  control_hide '><p>从65岁开始，每年给付基本保额的30%，达到了生存金的3倍，一直给到105岁</p></div></div><div class='item'><div class='inner-hyperTitle'>特权早享一次取</div><div class='inner-title'><span class='color_bg point'></span>65岁时，可选择一次性领取&nbsp;<span class='color bold'>22900元</span>&nbsp;</div><div class='inner-list  control_hide '><p>于被保人满65岁，生存受益人可在对应年生效对应日的前30天，行使一次性领取养老金，领取后将不再给付养老保险金</p></div></div><div class='item'><div class='inner-hyperTitle'>年年领分红</div><div class='inner-title'><span class='color_bg point'></span>每年可根据公司实际经营状况参与分红</div><div class='inner-list  control_hide '><p>不仅有确定的生存类保险金，而且可享受公司分红</p></div></div></div><div class='list'><div class='item'><!-- 二层结构 --><div class='inner-title'><span class='color_bg point'></span>身故保险金</div><div class='inner-list'><p>中途发生身故，给付已交保险费与现金价值二者较大者</p></div><!--  循环多图片 --><div class='inner-add-pic'></div></div></div><div class='list'><div class='item'><div class='inner-title'><span class='color_bg point'></span>被保险人豁免</div><div class='inner-list'><p>投保人因意外身故或高残，免缴后期保费，保障继续有效</p></div></div></div><div class='list'><div class='item'><div class='inner-hyperTitle'>复利增值钱更多</div><div class='inner-title'><span class='color_bg point'></span>所有年金与分红会转入您的鑫账户里进行二次运作，保底年化复利2.5%</div><div class='inner-list  control_hide '><p>鑫账户是终身寿险，财富传承功能更强大，可合理节税避债传承财富</p></div></div></div><!-- p3 --><!-- $benefit.getBooleanValue('is_show_drop_down_btn') 值 true --><div class='bottom_show_more '><div class='openMore'><strong class='color_bg'></strong><em class='color'>显示详情</em></div></div>",
+            "<div class='title v1-hide'><p class='title-main'>智赢人生（少儿版）</p><div class='bottom-line'></div></div><div class='list'><div class='item'><div class='inner-hyperTitle'>首领次领多惊喜</div><div class='inner-title'><span class='color_bg point'></span>6岁、7岁，每年领取&nbsp;<span class='color bold'>3000元</span>&nbsp;</div><div class='inner-list  control_hide '><p>第6年初、第7年初给标保的100%</p></div></div><div class='item'><div class='inner-hyperTitle'>年年关怀长持续</div><div class='inner-title'><span class='color_bg point'></span>8岁至64岁，每年领取&nbsp;<span class='color bold'>229元</span>&nbsp;</div><div class='inner-list  control_hide '><p>从第8年至64岁，每年给付基本保额的10%生存金，与养老金无缝衔接，持续给付</p></div></div><div class='item'><div class='inner-hyperTitle'>专属教育强助力</div><div class='inner-title'><span class='color_bg point'></span>18岁至21岁，每年领取&nbsp;<span class='color bold'>3000元</span>&nbsp;</div><div class='inner-list  control_hide '><p>为孩子提供专属的、较高的、确定的教育金</p></div></div><div class='item'><div class='inner-hyperTitle'>三倍领取老无惧</div><div class='inner-title'><span class='color_bg point'></span>65岁至105岁，每年领取&nbsp;<span class='color bold'>687元</span>&nbsp;</div><div class='inner-list  control_hide '><p>从65岁开始，每年给付基本保额的30%，达到了生存金的3倍，一直给到105岁</p></div></div><div class='item'><div class='inner-hyperTitle'>特权早享一次取</div><div class='inner-title'><span class='color_bg point'></span>65岁时，可选择一次性领取&nbsp;<span class='color bold'>22900元</span>&nbsp;</div><div class='inner-list  control_hide '><p>于被保人满65岁，生存受益人可在对应年生效对应日的前30天，行使一次性领取养老金，领取后将不再给付养老保险金</p></div></div><div class='item'><div class='inner-hyperTitle'>年年领分红</div><div class='inner-title'><span class='color_bg point'></span>每年可根据公司实际经营状况参与分红</div><div class='inner-list  control_hide '><p>不仅有确定的生存类保险金，而且可享受公司分红</p></div></div></div><div class='list'><div class='item'><!-- 二层结构 --><div class='inner-title'><span class='color_bg point'></span>身故保险金</div><div class='inner-list'><p>中途发生身故，给付已交保险费与现金价值二者较大者</p></div><!--  循环多图片 --><div class='inner-add-pic'></div></div></div><div class='list'><div class='item'><div class='inner-title'><span class='color_bg point'></span>被保险人豁免</div><div class='inner-list'><p>投保人因意外身故或高残，免缴后期保费，保障继续有效</p></div></div></div><div class='list'><div class='item'><div class='inner-hyperTitle'>复利增值钱更多</div><div class='inner-title'><span class='color_bg point'></span>所有年金与分红会转入您的鑫账户里进行二次运作，保底年化复利2.5%</div><div class='inner-list  control_hide '><p>鑫账户是终身寿险，财富传承功能更强大，可合理节税避债传承财富</p></div></div></div><!-- p3 --><!-- $benefit.getBooleanValue('is_show_drop_down_btn') 值 true --><div class='bottom_show_more '><div class='openMore'><strong class='color_bg'></strong><em class='color'>显示详情</em></div></div>"
+        ],
+        "yanshi_table":
+        {
+            "59128b419161ec972100000b":
+            {
+                "pdf_yanshiLevel_text": "中档结算分红",
+                "multi_bonus_level": 2,
+                "pdf_yanshiLevel_val": 8,
+                "turnMultiDemoLevel": true,
+                "IS_XFNJ": false,
+                "bonus":
+                {
+                    "level":
+                    {},
+                    "bonus": [
+                    {
+                        "list": [
+                        {
+                            "values": [0, 0, 0],
+                            "title": "主险现价"
+                        },
+                        {
+                            "values": [4908, 4908, 4908],
+                            "title": "年度生存金"
+                        },
+                        {
+                            "values": [0, 69, 121],
+                            "title": "年度红利"
+                        },
+                        {
+                            "values": [9, 10, 10, 10, 10, 9, 10, 9, 10],
+                            "title": "万能账户价值"
+                        },
+                        {
+                            "values": [4917, 4917, 4917, 4917, 4917, 4917, 4917, 4917, 4917],
+                            "title": "生存总利益"
+                        },
+                        {
+                            "values": [10009, 10010, 10010, 10010, 10010, 10009, 10010, 10009, 10010],
+                            "title": "身故总利益"
+                        }],
+                        "age": "31"
+                    },
+                    {
+                        "list": [
+                        {
+                            "values": [1670, 1670, 1670],
+                            "title": "主险现价"
+                        },
+                        {
+                            "values": [2754, 2754, 2754],
+                            "title": "年度生存金"
+                        },
+                        {
+                            "values": [0, 179, 313],
+                            "title": "年度红利"
+                        },
+                        {
+                            "values": [5065, 5212, 5342, 5139, 5213, 5137, 5287, 5191, 5266],
+                            "title": "万能账户价值"
+                        },
+                        {
+                            "values": [9286, 9427, 9552, 9357, 9428, 9355, 9499, 9407, 9480],
+                            "title": "生存总利益"
+                        },
+                        {
+                            "values": [25065, 25212, 25342, 25139, 25213, 25137, 25287, 25191, 25266],
+                            "title": "身故总利益"
+                        }],
+                        "age": "32"
+                    },
+                    {
+                        "list": [
+                        {
+                            "values": [4960, 4960, 4960],
+                            "title": "主险现价"
+                        },
+                        {
+                            "values": [2754, 2754, 2754],
+                            "title": "年度生存金"
+                        },
+                        {
+                            "values": [0, 274, 481],
+                            "title": "年度红利"
+                        },
+                        {
+                            "values": [8054, 8512, 8915, 8248, 8445, 8312, 8713, 8506, 8709],
+                            "title": "万能账户价值"
+                        },
+                        {
+                            "values": [15526, 15970, 16361, 15715, 15906, 15777, 16166, 15965, 16162],
+                            "title": "生存总利益"
+                        },
+                        {
+                            "values": [38054, 38512, 38915, 38248, 38445, 38312, 38713, 38506, 38709],
+                            "title": "身故总利益"
+                        }],
+                        "age": "33"
+                    },
+                    {
+                        "list": [
+                        {
+                            "values": [8620, 8620, 8620],
+                            "title": "主险现价"
+                        },
+                        {
+                            "values": [2754, 2754, 2754],
+                            "title": "年度生存金"
+                        },
+                        {
+                            "values": [0, 403, 705],
+                            "title": "年度红利"
+                        },
+                        {
+                            "values": [11132, 12060, 12879, 11497, 11871, 11682, 12447, 12094, 12482],
+                            "title": "万能账户价值"
+                        },
+                        {
+                            "values": [22506, 23434, 24253, 22871, 23245, 23056, 23821, 23468, 23856],
+                            "title": "生存总利益"
+                        },
+                        {
+                            "values": [51132, 52060, 52879, 51497, 51871, 51682, 52447, 52094, 52482],
+                            "title": "身故总利益"
+                        }],
+                        "age": "34"
+                    },
+                    {
+                        "list": [
+                        {
+                            "values": [12460, 12460, 12460],
+                            "title": "主险现价"
+                        },
+                        {
+                            "values": [2754, 2754, 2754],
+                            "title": "年度生存金"
+                        },
+                        {
+                            "values": [0, 534, 935],
+                            "title": "年度红利"
+                        },
+                        {
+                            "values": [14302, 15902, 17319, 14893, 15502, 15284, 16540, 16020, 16659],
+                            "title": "万能账户价值"
+                        },
+                        {
+                            "values": [29516, 31116, 32533, 30107, 30716, 30498, 31754, 31234, 31873],
+                            "title": "生存总利益"
+                        },
+                        {
+                            "values": [64302, 65902, 67319, 64893, 65502, 65284, 66540, 66020, 66659],
+                            "title": "身故总利益"
+                        }],
+                        "age": "35"
+                    },
+                    {
+                        "list": [
+                        {
+                            "values": [16500, 16500, 16500],
+                            "title": "主险现价"
+                        },
+                        {
+                            "values": [2754, 2754, 2754],
+                            "title": "年度生存金"
+                        },
+                        {
+                            "values": [0, 669, 1171],
+                            "title": "年度红利"
+                        },
+                        {
+                            "values": [17568, 20054, 22269, 18441, 19352, 19130, 21019, 20301, 21264],
+                            "title": "万能账户价值"
+                        },
+                        {
+                            "values": [36822, 39308, 41523, 37695, 38606, 38384, 40273, 39555, 40518],
+                            "title": "生存总利益"
+                        },
+                        {
+                            "values": [77568, 80054, 82269, 78441, 79352, 79130, 81019, 80301, 81264],
+                            "title": "身故总利益"
+                        }],
+                        "age": "36"
+                    },
+                    {
+                        "list": [
+                        {
+                            "values": [20730, 20730, 20730],
+                            "title": "主险现价"
+                        },
+                        {
+                            "values": [2754, 2754, 2754],
+                            "title": "年度生存金"
+                        },
+                        {
+                            "values": [0, 807, 1412],
+                            "title": "年度红利"
+                        },
+                        {
+                            "values": [20932, 24534, 27766, 22149, 23432, 23229, 25908, 24953, 26323],
+                            "title": "万能账户价值"
+                        },
+                        {
+                            "values": [44416, 48018, 51250, 45633, 46916, 46713, 49392, 48437, 49807],
+                            "title": "生存总利益"
+                        },
+                        {
+                            "values": [90932, 94534, 97766, 92149, 93432, 93229, 95908, 94953, 96323],
+                            "title": "身故总利益"
+                        }],
+                        "age": "37"
+                    },
+                    {
+                        "list": [
+                        {
+                            "values": [25180, 25180, 25180],
+                            "title": "主险现价"
+                        },
+                        {
+                            "values": [2754, 2754, 2754],
+                            "title": "年度生存金"
+                        },
+                        {
+                            "values": [0, 948, 1659],
+                            "title": "年度红利"
+                        },
+                        {
+                            "values": [24396, 29359, 33848, 26023, 27757, 27594, 31238, 29993, 31861],
+                            "title": "万能账户价值"
+                        },
+                        {
+                            "values": [52330, 57293, 61782, 53957, 55691, 55528, 59172, 57927, 59795],
+                            "title": "生存总利益"
+                        },
+                        {
+                            "values": [104396, 109359, 113848, 106023, 107757, 107594, 111238, 109993, 111861],
+                            "title": "身故总利益"
+                        }],
+                        "age": "38"
+                    },
+                    {
+                        "list": [
+                        {
+                            "values": [29840, 29840, 29840],
+                            "title": "主险现价"
+                        },
+                        {
+                            "values": [2754, 2754, 2754],
+                            "title": "年度生存金"
+                        },
+                        {
+                            "values": [0, 1093, 1913],
+                            "title": "年度红利"
+                        },
+                        {
+                            "values": [27965, 34550, 40558, 30072, 32342, 32236, 37037, 35439, 37908],
+                            "title": "万能账户价值"
+                        },
+                        {
+                            "values": [60559, 67144, 73152, 62666, 64936, 64830, 69631, 68033, 70502],
+                            "title": "生存总利益"
+                        },
+                        {
+                            "values": [117965, 124550, 130558, 120072, 122342, 122236, 127037, 125439, 127908],
+                            "title": "身故总利益"
+                        }],
+                        "age": "39"
+                    },
+                    {
+                        "list": [
+                        {
+                            "values": [34730, 34730, 34730],
+                            "title": "主险现价"
+                        },
+                        {
+                            "values": [2754, 2754, 2754],
+                            "title": "年度生存金"
+                        },
+                        {
+                            "values": [0, 1241, 2173],
+                            "title": "年度红利"
+                        },
+                        {
+                            "values": [31641, 40125, 47939, 34303, 37202, 37166, 43337, 41310, 44491],
+                            "title": "万能账户价值"
+                        },
+                        {
+                            "values": [69125, 77609, 85423, 71787, 74686, 74650, 80821, 78794, 81975],
+                            "title": "生存总利益"
+                        },
+                        {
+                            "values": [131641, 140125, 147939, 134303, 137202, 137166, 143337, 141310, 144491],
+                            "title": "身故总利益"
+                        }],
+                        "age": "40"
+                    },
+                    {
+                        "list": [
+                        {
+                            "values": [39860, 39860, 39860],
+                            "title": "主险现价"
+                        },
+                        {
+                            "values": [2754, 2754, 2754],
+                            "title": "年度生存金"
+                        },
+                        {
+                            "values": [0, 1394, 2439],
+                            "title": "年度红利"
+                        },
+                        {
+                            "values": [35426, 46106, 56038, 38725, 42353, 42396, 50173, 47624, 51642],
+                            "title": "万能账户价值"
+                        },
+                        {
+                            "values": [78040, 88720, 98652, 81339, 84967, 85010, 92787, 90238, 94256],
+                            "title": "生存总利益"
+                        },
+                        {
+                            "values": [145426, 156106, 166038, 148725, 152353, 152396, 160173, 157624, 161642],
+                            "title": "身故总利益"
+                        }],
+                        "age": "41"
+                    },
+                    {
+                        "list": [
+                        {
+                            "values": [45240, 45240, 45240],
+                            "title": "主险现价"
+                        },
+                        {
+                            "values": [2754, 2754, 2754],
+                            "title": "年度生存金"
+                        },
+                        {
+                            "values": [0, 1549, 2712],
+                            "title": "年度红利"
+                        },
+                        {
+                            "values": [39326, 52516, 64906, 43346, 47814, 47941, 57581, 54402, 59394],
+                            "title": "万能账户价值"
+                        },
+                        {
+                            "values": [87320, 100510, 112900, 91340, 95808, 95935, 105575, 102396, 107388],
+                            "title": "生存总利益"
+                        },
+                        {
+                            "values": [159326, 172516, 184906, 163346, 167814, 167941, 177581, 174402, 179394],
+                            "title": "身故总利益"
+                        }],
+                        "age": "42"
+                    },
+                    {
+                        "list": [
+                        {
+                            "values": [50870, 50870, 50870],
+                            "title": "主险现价"
+                        },
+                        {
+                            "values": [2754, 2754, 2754],
+                            "title": "年度生存金"
+                        },
+                        {
+                            "values": [0, 1709, 2991],
+                            "title": "年度红利"
+                        },
+                        {
+                            "values": [43342, 59377, 74594, 48174, 53602, 53812, 65598, 61665, 67779],
+                            "title": "万能账户价值"
+                        },
+                        {
+                            "values": [96966, 113001, 128218, 101798, 107226, 107436, 119222, 115289, 121403],
+                            "title": "生存总利益"
+                        },
+                        {
+                            "values": [173342, 189377, 204594, 178174, 183602, 183812, 195598, 191665, 197779],
+                            "title": "身故总利益"
+                        }],
+                        "age": "43"
+                    },
+                    {
+                        "list": [
+                        {
+                            "values": [56760, 56760, 56760],
+                            "title": "主险现价"
+                        },
+                        {
+                            "values": [2754, 2754, 2754],
+                            "title": "年度生存金"
+                        },
+                        {
+                            "values": [0, 1873, 3278],
+                            "title": "年度红利"
+                        },
+                        {
+                            "values": [47479, 66713, 85160, 53220, 59737, 60024, 74265, 69433, 76833],
+                            "title": "万能账户价值"
+                        },
+                        {
+                            "values": [106993, 126227, 144674, 112734, 119251, 119538, 133779, 128947, 136347],
+                            "title": "生存总利益"
+                        },
+                        {
+                            "values": [187479, 206713, 225160, 193220, 199737, 200024, 214265, 209433, 216833],
+                            "title": "身故总利益"
+                        }],
+                        "age": "44"
+                    },
+                    {
+                        "list": [
+                        {
+                            "values": [62940, 62940, 62940],
+                            "title": "主险现价"
+                        },
+                        {
+                            "values": [2754, 2754, 2754],
+                            "title": "年度生存金"
+                        },
+                        {
+                            "values": [0, 2040, 3571],
+                            "title": "年度红利"
+                        },
+                        {
+                            "values": [51740, 74551, 96664, 58493, 66241, 66591, 83626, 77729, 86594],
+                            "title": "万能账户价值"
+                        },
+                        {
+                            "values": [117434, 140245, 162358, 124187, 131935, 132285, 149320, 143423, 152288],
+                            "title": "生存总利益"
+                        },
+                        {
+                            "values": [201740, 224551, 246664, 208493, 216241, 216591, 233626, 227729, 236594],
+                            "title": "身故总利益"
+                        }],
+                        "age": "45"
+                    },
+                    {
+                        "list": [
+                        {
+                            "values": [69400, 69400, 69400],
+                            "title": "主险现价"
+                        },
+                        {
+                            "values": [2754, 2754, 2754],
+                            "title": "年度生存金"
+                        },
+                        {
+                            "values": [0, 2212, 3871],
+                            "title": "年度红利"
+                        },
+                        {
+                            "values": [56129, 82916, 109169, 64003, 73134, 73527, 93726, 86576, 97101],
+                            "title": "万能账户价值"
+                        },
+                        {
+                            "values": [128283, 155070, 181323, 136157, 145288, 145681, 165880, 158730, 169255],
+                            "title": "生存总利益"
+                        },
+                        {
+                            "values": [216129, 242916, 269169, 224003, 233134, 233527, 253726, 246576, 257101],
+                            "title": "身故总利益"
+                        }],
+                        "age": "46"
+                    },
+                    {
+                        "list": [
+                        {
+                            "values": [76170, 76170, 76170],
+                            "title": "主险现价"
+                        },
+                        {
+                            "values": [2754, 2754, 2754],
+                            "title": "年度生存金"
+                        },
+                        {
+                            "values": [0, 2388, 4179],
+                            "title": "年度红利"
+                        },
+                        {
+                            "values": [60649, 91837, 122742, 69761, 80442, 80848, 104613, 95997, 108394],
+                            "title": "万能账户价值"
+                        },
+                        {
+                            "values": [139573, 170761, 201666, 148685, 159366, 159772, 183537, 174921, 187318],
+                            "title": "生存总利益"
+                        },
+                        {
+                            "values": [230649, 261837, 292742, 239761, 250442, 250848, 274613, 265997, 278394],
+                            "title": "身故总利益"
+                        }],
+                        "age": "47"
+                    },
+                    {
+                        "list": [
+                        {
+                            "values": [83250, 83250, 83250],
+                            "title": "主险现价"
+                        },
+                        {
+                            "values": [2754, 2754, 2754],
+                            "title": "年度生存金"
+                        },
+                        {
+                            "values": [0, 2568, 4494],
+                            "title": "年度红利"
+                        },
+                        {
+                            "values": [65306, 101343, 137456, 75778, 88188, 88570, 116341, 106019, 120517],
+                            "title": "万能账户价值"
+                        },
+                        {
+                            "values": [151310, 187347, 223460, 161782, 174192, 174574, 202345, 192023, 206521],
+                            "title": "生存总利益"
+                        },
+                        {
+                            "values": [245306, 281343, 317456, 255778, 268188, 268570, 296341, 286019, 300517],
+                            "title": "身故总利益"
+                        }],
+                        "age": "48"
+                    },
+                    {
+                        "list": [
+                        {
+                            "values": [90660, 90660, 90660],
+                            "title": "主险现价"
+                        },
+                        {
+                            "values": [2754, 2754, 2754],
+                            "title": "年度生存金"
+                        },
+                        {
+                            "values": [0, 2752, 4817],
+                            "title": "年度红利"
+                        },
+                        {
+                            "values": [70101, 111466, 153387, 82066, 96398, 96709, 128963, 116665, 133516],
+                            "title": "万能账户价值"
+                        },
+                        {
+                            "values": [163515, 204880, 246801, 175480, 189812, 190123, 222377, 210079, 226930],
+                            "title": "生存总利益"
+                        },
+                        {
+                            "values": [260101, 301466, 343387, 272066, 286398, 286709, 318963, 306665, 323516],
+                            "title": "身故总利益"
+                        }],
+                        "age": "49"
+                    },
+                    {
+                        "list": [
+                        {
+                            "values": [98400, 98400, 98400],
+                            "title": "主险现价"
+                        },
+                        {
+                            "values": [2754, 2754, 2754],
+                            "title": "年度生存金"
+                        },
+                        {
+                            "values": [0, 2941, 5148],
+                            "title": "年度红利"
+                        },
+                        {
+                            "values": [75041, 122236, 170616, 88637, 105101, 105283, 142538, 127964, 147436],
+                            "title": "万能账户价值"
+                        },
+                        {
+                            "values": [176195, 223390, 271770, 189791, 206255, 206437, 243692, 229118, 248590],
+                            "title": "生存总利益"
+                        },
+                        {
+                            "values": [275041, 322236, 370616, 288637, 305101, 305283, 342538, 327964, 347436],
+                            "title": "身故总利益"
+                        }],
+                        "age": "50"
+                    },
+                    {
+                        "list": [
+                        {
+                            "values": [100060, 100060, 100060],
+                            "title": "主险现价"
+                        },
+                        {
+                            "values": [2154, 2154, 2154],
+                            "title": "年度生存金"
+                        },
+                        {
+                            "values": [0, 2955, 5172],
+                            "title": "年度红利"
+                        },
+                        {
+                            "values": [80129, 133689, 189230, 95504, 114327, 114308, 157128, 139942, 162328],
+                            "title": "万能账户价值"
+                        },
+                        {
+                            "values": [182343, 235903, 291444, 197718, 216541, 216522, 259342, 242156, 264542],
+                            "title": "生存总利益"
+                        },
+                        {
+                            "values": [280129, 333689, 389230, 295504, 314327, 314308, 357128, 339942, 362328],
+                            "title": "身故总利益"
+                        }],
+                        "age": "51"
+                    },
+                    {
+                        "list": [
+                        {
+                            "values": [101770, 101770, 101770],
+                            "title": "主险现价"
+                        },
+                        {
+                            "values": [2154, 2154, 2154],
+                            "title": "年度生存金"
+                        },
+                        {
+                            "values": [0, 2984, 5222],
+                            "title": "年度红利"
+                        },
+                        {
+                            "values": [84751, 145045, 208350, 102052, 123469, 123000, 171973, 151687, 177290],
+                            "title": "万能账户价值"
+                        },
+                        {
+                            "values": [188675, 248969, 312274, 205976, 227393, 226924, 275897, 255611, 281214],
+                            "title": "生存总利益"
+                        },
+                        {
+                            "values": [284751, 345045, 408350, 302052, 323469, 323000, 371973, 351687, 377290],
+                            "title": "身故总利益"
+                        }],
+                        "age": "52"
+                    },
+                    {
+                        "list": [
+                        {
+                            "values": [103550, 103550, 103550],
+                            "title": "主险现价"
+                        },
+                        {
+                            "values": [2154, 2154, 2154],
+                            "title": "年度生存金"
+                        },
+                        {
+                            "values": [0, 3013, 5274],
+                            "title": "年度红利"
+                        },
+                        {
+                            "values": [89513, 156942, 228670, 108895, 133161, 131983, 187738, 163836, 192977],
+                            "title": "万能账户价值"
+                        },
+                        {
+                            "values": [195217, 262646, 334374, 214599, 238865, 237687, 293442, 269540, 298681],
+                            "title": "生存总利益"
+                        },
+                        {
+                            "values": [289513, 356942, 428670, 308895, 333161, 331983, 387738, 363836, 392977],
+                            "title": "身故总利益"
+                        }],
+                        "age": "53"
+                    },
+                    {
+                        "list": [
+                        {
+                            "values": [105380, 105380, 105380],
+                            "title": "主险现价"
+                        },
+                        {
+                            "values": [2154, 2154, 2154],
+                            "title": "年度生存金"
+                        },
+                        {
+                            "values": [0, 3043, 5326],
+                            "title": "年度红利"
+                        },
+                        {
+                            "values": [94417, 169405, 250264, 116047, 143434, 141265, 204480, 176402, 209423],
+                            "title": "万能账户价值"
+                        },
+                        {
+                            "values": [201951, 276939, 357798, 223581, 250968, 248799, 312014, 283936, 316957],
+                            "title": "生存总利益"
+                        },
+                        {
+                            "values": [294417, 369405, 450264, 316047, 343434, 341265, 404480, 376402, 409423],
+                            "title": "身故总利益"
+                        }],
+                        "age": "54"
+                    },
+                    {
+                        "list": [
+                        {
+                            "values": [107280, 107280, 107280],
+                            "title": "主险现价"
+                        },
+                        {
+                            "values": [2154, 2154, 2154],
+                            "title": "年度生存金"
+                        },
+                        {
+                            "values": [0, 3073, 5379],
+                            "title": "年度红利"
+                        },
+                        {
+                            "values": [99468, 182459, 273209, 123520, 154323, 150857, 222258, 189399, 226664],
+                            "title": "万能账户价值"
+                        },
+                        {
+                            "values": [208902, 291893, 382643, 232954, 263757, 260291, 331692, 298833, 336098],
+                            "title": "生存总利益"
+                        },
+                        {
+                            "values": [299468, 382459, 473209, 323520, 354323, 350857, 422258, 389399, 426664],
+                            "title": "身故总利益"
+                        }],
+                        "age": "55"
+                    },
+                    {
+                        "list": [
+                        {
+                            "values": [109240, 109240, 109240],
+                            "title": "主险现价"
+                        },
+                        {
+                            "values": [2154, 2154, 2154],
+                            "title": "年度生存金"
+                        },
+                        {
+                            "values": [0, 3105, 5433],
+                            "title": "年度红利"
+                        },
+                        {
+                            "values": [104670, 196133, 297587, 131329, 165866, 160767, 241135, 202840, 244736],
+                            "title": "万能账户价值"
+                        },
+                        {
+                            "values": [216064, 307527, 408981, 242723, 277260, 272161, 352529, 314234, 356130],
+                            "title": "生存总利益"
+                        },
+                        {
+                            "values": [304670, 396133, 497587, 331329, 365866, 360767, 441135, 402840, 444736],
+                            "title": "身故总利益"
+                        }],
+                        "age": "56"
+                    },
+                    {
+                        "list": [
+                        {
+                            "values": [111280, 111280, 111280],
+                            "title": "主险现价"
+                        },
+                        {
+                            "values": [2154, 2154, 2154],
+                            "title": "年度生存金"
+                        },
+                        {
+                            "values": [0, 3136, 5489],
+                            "title": "年度红利"
+                        },
+                        {
+                            "values": [110029, 210455, 323486, 139490, 178101, 171007, 261178, 216741, 263679],
+                            "title": "万能账户价值"
+                        },
+                        {
+                            "values": [223463, 323889, 436920, 252924, 291535, 284441, 374612, 330175, 377113],
+                            "title": "生存总利益"
+                        },
+                        {
+                            "values": [310029, 410455, 523486, 339490, 378101, 371007, 461178, 416741, 463679],
+                            "title": "身故总利益"
+                        }],
+                        "age": "57"
+                    },
+                    {
+                        "list": [
+                        {
+                            "values": [113380, 113380, 113380],
+                            "title": "主险现价"
+                        },
+                        {
+                            "values": [2154, 2154, 2154],
+                            "title": "年度生存金"
+                        },
+                        {
+                            "values": [0, 3169, 5546],
+                            "title": "年度红利"
+                        },
+                        {
+                            "values": [115549, 225454, 350997, 148018, 191070, 181587, 282457, 231116, 283532],
+                            "title": "万能账户价值"
+                        },
+                        {
+                            "values": [231083, 340988, 466531, 263552, 306604, 297121, 397991, 346650, 399066],
+                            "title": "生存总利益"
+                        },
+                        {
+                            "values": [315549, 425454, 550997, 348018, 391070, 381587, 482457, 431116, 483532],
+                            "title": "身故总利益"
+                        }],
+                        "age": "58"
+                    },
+                    {
+                        "list": [
+                        {
+                            "values": [115560, 115560, 115560],
+                            "title": "主险现价"
+                        },
+                        {
+                            "values": [2154, 2154, 2154],
+                            "title": "年度生存金"
+                        },
+                        {
+                            "values": [0, 3202, 5604],
+                            "title": "年度红利"
+                        },
+                        {
+                            "values": [121234, 241163, 380219, 156930, 204818, 192518, 305047, 245980, 304337],
+                            "title": "万能账户价值"
+                        },
+                        {
+                            "values": [238948, 358877, 497933, 274644, 322532, 310232, 422761, 363694, 422051],
+                            "title": "生存总利益"
+                        },
+                        {
+                            "values": [321234, 441163, 580219, 356930, 404818, 392518, 505047, 445980, 504337],
+                            "title": "身故总利益"
+                        }],
+                        "age": "59"
+                    },
+                    {
+                        "list": [
+                        {
+                            "values": [110630, 110630, 110630],
+                            "title": "主险现价"
+                        },
+                        {
+                            "values": [9334, 9334, 9334],
+                            "title": "年度生存金"
+                        },
+                        {
+                            "values": [0, 3236, 5663],
+                            "title": "年度红利"
+                        },
+                        {
+                            "values": [127089, 257612, 411256, 166242, 219390, 203810, 329028, 261351, 326140],
+                            "title": "万能账户价值"
+                        },
+                        {
+                            "values": [247053, 377576, 531220, 286206, 339354, 323774, 448992, 381315, 446104],
+                            "title": "生存总利益"
+                        },
+                        {
+                            "values": [327089, 457612, 611256, 366242, 419390, 403810, 529028, 461351, 526140],
+                            "title": "身故总利益"
+                        }],
+                        "age": "60"
+                    },
+                    {
+                        "list": [
+                        {
+                            "values": [112650, 112650, 112650],
+                            "title": "主险现价"
+                        },
+                        {
+                            "values": [2154, 2154, 2154],
+                            "title": "年度生存金"
+                        },
+                        {
+                            "values": [0, 3127, 5472],
+                            "title": "年度红利"
+                        },
+                        {
+                            "values": [140516, 282341, 451829, 183477, 242448, 222872, 362094, 284639, 356488],
+                            "title": "万能账户价值"
+                        },
+                        {
+                            "values": [255320, 397145, 566633, 298281, 357252, 337676, 476898, 399443, 471292],
+                            "title": "生存总利益"
+                        },
+                        {
+                            "values": [340516, 482341, 651829, 383477, 442448, 422872, 562094, 484639, 556488],
+                            "title": "身故总利益"
+                        }],
+                        "age": "61"
+                    },
+                    {
+                        "list": [
+                        {
+                            "values": [114740, 114740, 114740],
+                            "title": "主险现价"
+                        },
+                        {
+                            "values": [2154, 2154, 2154],
+                            "title": "年度生存金"
+                        },
+                        {
+                            "values": [0, 3158, 5527],
+                            "title": "年度红利"
+                        },
+                        {
+                            "values": [146950, 300565, 487023, 193985, 259278, 234998, 389418, 301034, 380500],
+                            "title": "万能账户价值"
+                        },
+                        {
+                            "values": [263844, 417459, 603917, 310879, 376172, 351892, 506312, 417928, 497394],
+                            "title": "生存总利益"
+                        },
+                        {
+                            "values": [346950, 500565, 687023, 393985, 459278, 434998, 589418, 501034, 580500],
+                            "title": "身故总利益"
+                        }],
+                        "age": "62"
+                    },
+                    {
+                        "list": [
+                        {
+                            "values": [116890, 116890, 116890],
+                            "title": "主险现价"
+                        },
+                        {
+                            "values": [2154, 2154, 2154],
+                            "title": "年度生存金"
+                        },
+                        {
+                            "values": [0, 3190, 5582],
+                            "title": "年度红利"
+                        },
+                        {
+                            "values": [153577, 319642, 524386, 204965, 277118, 247520, 418414, 317976, 405650],
+                            "title": "万能账户价值"
+                        },
+                        {
+                            "values": [272621, 438686, 643430, 324009, 396162, 366564, 537458, 437020, 524694],
+                            "title": "生存总利益"
+                        },
+                        {
+                            "values": [353577, 519642, 724386, 404965, 477118, 447520, 618414, 517976, 605650],
+                            "title": "身故总利益"
+                        }],
+                        "age": "63"
+                    },
+                    {
+                        "list": [
+                        {
+                            "values": [119120, 119120, 119120],
+                            "title": "主险现价"
+                        },
+                        {
+                            "values": [2154, 2154, 2154],
+                            "title": "年度生存金"
+                        },
+                        {
+                            "values": [0, 3222, 5639],
+                            "title": "年度红利"
+                        },
+                        {
+                            "values": [160403, 339611, 564051, 216439, 296028, 260450, 449184, 335485, 431989],
+                            "title": "万能账户价值"
+                        },
+                        {
+                            "values": [281677, 460885, 685325, 337713, 417302, 381724, 570458, 456759, 553263],
+                            "title": "生存总利益"
+                        },
+                        {
+                            "values": [360403, 539611, 764051, 416439, 496028, 460450, 649184, 535485, 631989],
+                            "title": "身故总利益"
+                        }],
+                        "age": "64"
+                    },
+                    {
+                        "list": [
+                        {
+                            "values": [121410, 121410, 121410],
+                            "title": "主险现价"
+                        },
+                        {
+                            "values": [2154, 2154, 2154],
+                            "title": "年度生存金"
+                        },
+                        {
+                            "values": [0, 3255, 5697],
+                            "title": "年度红利"
+                        },
+                        {
+                            "values": [167434, 360512, 606155, 228430, 316073, 273801, 481834, 353577, 459573],
+                            "title": "万能账户价值"
+                        },
+                        {
+                            "values": [290998, 484076, 729719, 351994, 439637, 397365, 605398, 477141, 583137],
+                            "title": "生存总利益"
+                        },
+                        {
+                            "values": [367434, 560512, 806155, 428430, 516073, 473801, 681834, 553577, 659573],
+                            "title": "身故总利益"
+                        }],
+                        "age": "65"
+                    },
+                    {
+                        "list": [
+                        {
+                            "values": [123770, 123770, 123770],
+                            "title": "主险现价"
+                        },
+                        {
+                            "values": [2154, 2154, 2154],
+                            "title": "年度生存金"
+                        },
+                        {
+                            "values": [0, 3289, 5756],
+                            "title": "年度红利"
+                        },
+                        {
+                            "values": [174676, 382388, 650847, 240960, 337321, 287587, 516479, 372271, 488459],
+                            "title": "万能账户价值"
+                        },
+                        {
+                            "values": [300600, 508312, 776771, 366884, 463245, 413511, 642403, 498195, 614383],
+                            "title": "生存总利益"
+                        },
+                        {
+                            "values": [374676, 582388, 850847, 440960, 537321, 487587, 716479, 572271, 688459],
+                            "title": "身故总利益"
+                        }],
+                        "age": "66"
+                    },
+                    {
+                        "list": [
+                        {
+                            "values": [126210, 126210, 126210],
+                            "title": "主险现价"
+                        },
+                        {
+                            "values": [2154, 2154, 2154],
+                            "title": "年度生存金"
+                        },
+                        {
+                            "values": [0, 3323, 5816],
+                            "title": "年度红利"
+                        },
+                        {
+                            "values": [182135, 405284, 698283, 254055, 359843, 301822, 553237, 391587, 518706],
+                            "title": "万能账户价值"
+                        },
+                        {
+                            "values": [310499, 533648, 826647, 382419, 488207, 430186, 681601, 519951, 647070],
+                            "title": "生存总利益"
+                        },
+                        {
+                            "values": [382135, 605284, 898283, 454055, 559843, 501822, 753237, 591587, 718706],
+                            "title": "身故总利益"
+                        }],
+                        "age": "67"
+                    },
+                    {
+                        "list": [
+                        {
+                            "values": [128730, 128730, 128730],
+                            "title": "主险现价"
+                        },
+                        {
+                            "values": [2154, 2154, 2154],
+                            "title": "年度生存金"
+                        },
+                        {
+                            "values": [0, 3358, 5878],
+                            "title": "年度红利"
+                        },
+                        {
+                            "values": [189817, 429246, 748629, 267738, 383717, 316519, 592238, 411544, 550377],
+                            "title": "万能账户价值"
+                        },
+                        {
+                            "values": [320701, 560130, 879513, 398622, 514601, 447403, 723122, 542428, 681261],
+                            "title": "生存总利益"
+                        },
+                        {
+                            "values": [389817, 629246, 948629, 467738, 583717, 516519, 792238, 611544, 750377],
+                            "title": "身故总利益"
+                        }],
+                        "age": "68"
+                    },
+                    {
+                        "list": [
+                        {
+                            "values": [131320, 131320, 131320],
+                            "title": "主险现价"
+                        },
+                        {
+                            "values": [2154, 2154, 2154],
+                            "title": "年度生存金"
+                        },
+                        {
+                            "values": [0, 3394, 5940],
+                            "title": "年度红利"
+                        },
+                        {
+                            "values": [197731, 454323, 802061, 282037, 409023, 331692, 633616, 432164, 583538],
+                            "title": "万能账户价值"
+                        },
+                        {
+                            "values": [331205, 587797, 935535, 415511, 542497, 465166, 767090, 565638, 717012],
+                            "title": "生存总利益"
+                        },
+                        {
+                            "values": [397731, 654323, 1002061, 482037, 609023, 531692, 833616, 632164, 783538],
+                            "title": "身故总利益"
+                        }],
+                        "age": "69"
+                    },
+                    {
+                        "list": [
+                        {
+                            "values": [126800, 126800, 126800],
+                            "title": "主险现价"
+                        },
+                        {
+                            "values": [9334, 9334, 9334],
+                            "title": "年度生存金"
+                        },
+                        {
+                            "values": [0, 3431, 6004],
+                            "title": "年度红利"
+                        },
+                        {
+                            "values": [205881, 480566, 858765, 296980, 435848, 347358, 677515, 453466, 618256],
+                            "title": "万能账户价值"
+                        },
+                        {
+                            "values": [342015, 616700, 994899, 433114, 571982, 483492, 813649, 589600, 754390],
+                            "title": "生存总利益"
+                        },
+                        {
+                            "values": [405881, 680566, 1058765, 496980, 635848, 547358, 877515, 653466, 818256],
+                            "title": "身故总利益"
+                        }],
+                        "age": "70"
+                    },
+                    {
+                        "list": [
+                        {
+                            "values": [129210, 129210, 129210],
+                            "title": "主险现价"
+                        },
+                        {
+                            "values": [2154, 2154, 2154],
+                            "title": "年度生存金"
+                        },
+                        {
+                            "values": [0, 3325, 5818],
+                            "title": "年度红利"
+                        },
+                        {
+                            "values": [221672, 515531, 926550, 320098, 471893, 370927, 731697, 482869, 662106],
+                            "title": "万能账户价值"
+                        },
+                        {
+                            "values": [353036, 646895, 1057914, 451462, 603257, 502291, 863061, 614233, 793470],
+                            "title": "生存总利益"
+                        },
+                        {
+                            "values": [421672, 715531, 1126550, 520098, 671893, 570927, 931697, 682869, 862106],
+                            "title": "身故总利益"
+                        }],
+                        "age": "71"
+                    },
+                    {
+                        "list": [
+                        {
+                            "values": [131680, 131680, 131680],
+                            "title": "主险现价"
+                        },
+                        {
+                            "values": [2154, 2154, 2154],
+                            "title": "年度生存金"
+                        },
+                        {
+                            "values": [0, 3358, 5876],
+                            "title": "年度红利"
+                        },
+                        {
+                            "values": [230540, 544456, 990594, 336753, 502490, 387699, 781406, 505567, 700233],
+                            "title": "万能账户价值"
+                        },
+                        {
+                            "values": [364374, 678290, 1124428, 470587, 636324, 521533, 915240, 639401, 834067],
+                            "title": "生存总利益"
+                        },
+                        {
+                            "values": [430540, 744456, 1190594, 536753, 702490, 587699, 981406, 705567, 900233],
+                            "title": "身故总利益"
+                        }],
+                        "age": "72"
+                    },
+                    {
+                        "list": [
+                        {
+                            "values": [134200, 134200, 134200],
+                            "title": "主险现价"
+                        },
+                        {
+                            "values": [2154, 2154, 2154],
+                            "title": "年度生存金"
+                        },
+                        {
+                            "values": [0, 3391, 5935],
+                            "title": "年度红利"
+                        },
+                        {
+                            "values": [239675, 574716, 1058542, 354158, 534922, 405007, 834134, 529006, 740135],
+                            "title": "万能账户价值"
+                        },
+                        {
+                            "values": [376029, 711070, 1194896, 490512, 671276, 541361, 970488, 665360, 876489],
+                            "title": "生存总利益"
+                        },
+                        {
+                            "values": [439675, 774716, 1258542, 554158, 734922, 605007, 1034134, 729006, 940135],
+                            "title": "身故总利益"
+                        }],
+                        "age": "73"
+                    },
+                    {
+                        "list": [
+                        {
+                            "values": [136770, 136770, 136770],
+                            "title": "主险现价"
+                        },
+                        {
+                            "values": [2154, 2154, 2154],
+                            "title": "年度生存金"
+                        },
+                        {
+                            "values": [0, 3425, 5994],
+                            "title": "年度红利"
+                        },
+                        {
+                            "values": [249084, 606374, 1130629, 372346, 569301, 422869, 890060, 553208, 781894],
+                            "title": "万能账户价值"
+                        },
+                        {
+                            "values": [388008, 745298, 1269553, 511270, 708225, 561793, 1028984, 692132, 920818],
+                            "title": "生存总利益"
+                        },
+                        {
+                            "values": [449084, 806374, 1330629, 572346, 769301, 622869, 1090060, 753208, 981894],
+                            "title": "身故总利益"
+                        }],
+                        "age": "74"
+                    },
+                    {
+                        "list": [
+                        {
+                            "values": [139380, 139380, 139380],
+                            "title": "主险现价"
+                        },
+                        {
+                            "values": [2154, 2154, 2154],
+                            "title": "年度生存金"
+                        },
+                        {
+                            "values": [0, 3459, 6054],
+                            "title": "年度红利"
+                        },
+                        {
+                            "values": [258775, 639491, 1207104, 391353, 605742, 441302, 949378, 578197, 825595],
+                            "title": "万能账户价值"
+                        },
+                        {
+                            "values": [400309, 781025, 1348638, 532887, 747276, 582836, 1090912, 719731, 967129],
+                            "title": "生存总利益"
+                        },
+                        {
+                            "values": [458775, 839491, 1407104, 591353, 805742, 641302, 1149378, 778197, 1025595],
+                            "title": "身故总利益"
+                        }],
+                        "age": "75"
+                    },
+                    {
+                        "list": [
+                        {
+                            "values": [142010, 142010, 142010],
+                            "title": "主险现价"
+                        },
+                        {
+                            "values": [2154, 2154, 2154],
+                            "title": "年度生存金"
+                        },
+                        {
+                            "values": [0, 3493, 6114],
+                            "title": "年度红利"
+                        },
+                        {
+                            "values": [268757, 674134, 1288231, 411215, 644370, 460323, 1012290, 603997, 871324],
+                            "title": "万能账户价值"
+                        },
+                        {
+                            "values": [412921, 818298, 1432395, 555379, 788534, 604487, 1156454, 748161, 1015488],
+                            "title": "生存总利益"
+                        },
+                        {
+                            "values": [468757, 874134, 1488231, 611215, 844370, 660323, 1212290, 803997, 1071324],
+                            "title": "身故总利益"
+                        }],
+                        "age": "76"
+                    },
+                    {
+                        "list": [
+                        {
+                            "values": [144660, 144660, 144660],
+                            "title": "主险现价"
+                        },
+                        {
+                            "values": [2154, 2154, 2154],
+                            "title": "年度生存金"
+                        },
+                        {
+                            "values": [0, 3528, 6174],
+                            "title": "年度红利"
+                        },
+                        {
+                            "values": [279038, 710372, 1374289, 431970, 685316, 479950, 1079015, 630633, 919174],
+                            "title": "万能账户价值"
+                        },
+                        {
+                            "values": [425852, 857186, 1521103, 578784, 832130, 626764, 1225829, 777447, 1065988],
+                            "title": "生存总利益"
+                        },
+                        {
+                            "values": [479038, 910372, 1574289, 631970, 885316, 679950, 1279015, 830633, 1119174],
+                            "title": "身故总利益"
+                        }],
+                        "age": "77"
+                    },
+                    {
+                        "list": [
+                        {
+                            "values": [147310, 147310, 147310],
+                            "title": "主险现价"
+                        },
+                        {
+                            "values": [2154, 2154, 2154],
+                            "title": "年度生存金"
+                        },
+                        {
+                            "values": [0, 3562, 6234],
+                            "title": "年度红利"
+                        },
+                        {
+                            "values": [289628, 748277, 1465574, 453660, 728718, 500201, 1149779, 658130, 969240],
+                            "title": "万能账户价值"
+                        },
+                        {
+                            "values": [439092, 897741, 1615038, 603124, 878182, 649665, 1299243, 807594, 1118704],
+                            "title": "生存总利益"
+                        },
+                        {
+                            "values": [489628, 948277, 1665574, 653660, 928718, 700201, 1349779, 858130, 1169240],
+                            "title": "身故总利益"
+                        }],
+                        "age": "78"
+                    },
+                    {
+                        "list": [
+                        {
+                            "values": [149960, 149960, 149960],
+                            "title": "主险现价"
+                        },
+                        {
+                            "values": [2154, 2154, 2154],
+                            "title": "年度生存金"
+                        },
+                        {
+                            "values": [0, 3597, 6295],
+                            "title": "年度红利"
+                        },
+                        {
+                            "values": [300536, 787923, 1562401, 476326, 774724, 521095, 1224825, 686515, 1021622],
+                            "title": "万能账户价值"
+                        },
+                        {
+                            "values": [452650, 940037, 1714515, 628440, 926838, 673209, 1376939, 838629, 1173736],
+                            "title": "生存总利益"
+                        },
+                        {
+                            "values": [500536, 987923, 1762401, 676326, 974724, 721095, 1424825, 886515, 1221622],
+                            "title": "身故总利益"
+                        }],
+                        "age": "79"
+                    },
+                    {
+                        "list": [
+                        {
+                            "values": [145420, 145420, 145420],
+                            "title": "主险现价"
+                        },
+                        {
+                            "values": [9334, 9334, 9334],
+                            "title": "年度生存金"
+                        },
+                        {
+                            "values": [0, 3631, 6355],
+                            "title": "年度红利"
+                        },
+                        {
+                            "values": [311770, 829390, 1665101, 500011, 823491, 542652, 1304411, 715813, 1076424],
+                            "title": "万能账户价值"
+                        },
+                        {
+                            "values": [466524, 984144, 1819855, 654765, 978245, 697406, 1459165, 870567, 1231178],
+                            "title": "生存总利益"
+                        },
+                        {
+                            "values": [511770, 1029390, 1865101, 700011, 1023491, 742652, 1504411, 915813, 1276424],
+                            "title": "身故总利益"
+                        }],
+                        "age": "80"
+                    },
+                    {
+                        "list": [
+                        {
+                            "values": [147530, 147530, 147530],
+                            "title": "主险现价"
+                        },
+                        {
+                            "values": [2154, 2154, 2154],
+                            "title": "年度生存金"
+                        },
+                        {
+                            "values": [0, 3522, 6164],
+                            "title": "年度红利"
+                        },
+                        {
+                            "values": [330738, 880261, 1781638, 532266, 882795, 572286, 1396419, 753447, 1141258],
+                            "title": "万能账户价值"
+                        },
+                        {
+                            "values": [480422, 1029945, 1931322, 681950, 1032479, 721970, 1546103, 903131, 1290942],
+                            "title": "生存总利益"
+                        },
+                        {
+                            "values": [530738, 1080261, 1981638, 732266, 1082795, 772286, 1596419, 953447, 1341258],
+                            "title": "身故总利益"
+                        }],
+                        "age": "81"
+                    },
+                    {
+                        "list": [
+                        {
+                            "values": [149570, 149570, 149570],
+                            "title": "主险现价"
+                        },
+                        {
+                            "values": [2154, 2154, 2154],
+                            "title": "年度生存金"
+                        },
+                        {
+                            "values": [0, 3547, 6207],
+                            "title": "年度红利"
+                        },
+                        {
+                            "values": [342878, 925805, 1897354, 558469, 938045, 595301, 1486221, 784619, 1201308],
+                            "title": "万能账户价值"
+                        },
+                        {
+                            "values": [494602, 1077529, 2049078, 710193, 1089769, 747025, 1637945, 936343, 1353032],
+                            "title": "生存总利益"
+                        },
+                        {
+                            "values": [542878, 1125805, 2097354, 758469, 1138045, 795301, 1686221, 984619, 1401308],
+                            "title": "身故总利益"
+                        }],
+                        "age": "82"
+                    },
+                    {
+                        "list": [
+                        {
+                            "values": [151510, 151510, 151510],
+                            "title": "主险现价"
+                        },
+                        {
+                            "values": [2154, 2154, 2154],
+                            "title": "年度生存金"
+                        },
+                        {
+                            "values": [0, 3570, 6248],
+                            "title": "年度红利"
+                        },
+                        {
+                            "values": [355383, 973424, 2020058, 585851, 996611, 619033, 1581438, 816770, 1264105],
+                            "title": "万能账户价值"
+                        },
+                        {
+                            "values": [509047, 1127088, 2173722, 739515, 1150275, 772697, 1735102, 970434, 1417769],
+                            "title": "生存总利益"
+                        },
+                        {
+                            "values": [555383, 1173424, 2220058, 785851, 1196611, 819033, 1781438, 1016770, 1464105],
+                            "title": "身故总利益"
+                        }],
+                        "age": "83"
+                    },
+                    {
+                        "list": [
+                        {
+                            "values": [153350, 153350, 153350],
+                            "title": "主险现价"
+                        },
+                        {
+                            "values": [2154, 2154, 2154],
+                            "title": "年度生存金"
+                        },
+                        {
+                            "values": [0, 3592, 6287],
+                            "title": "年度红利"
+                        },
+                        {
+                            "values": [368263, 1023211, 2150168, 614465, 1058691, 643500, 1682392, 849927, 1329770],
+                            "title": "万能账户价值"
+                        },
+                        {
+                            "values": [523767, 1178715, 2305672, 769969, 1214195, 799004, 1837896, 1005431, 1485274],
+                            "title": "生存总利益"
+                        },
+                        {
+                            "values": [568263, 1223211, 2350168, 814465, 1258691, 843500, 1882392, 1049927, 1529770],
+                            "title": "身故总利益"
+                        }],
+                        "age": "84"
+                    },
+                    {
+                        "list": [
+                        {
+                            "values": [155100, 155100, 155100],
+                            "title": "主险现价"
+                        },
+                        {
+                            "values": [2154, 2154, 2154],
+                            "title": "年度生存金"
+                        },
+                        {
+                            "values": [0, 3613, 6323],
+                            "title": "年度红利"
+                        },
+                        {
+                            "values": [381530, 1075260, 2288126, 644367, 1124496, 668724, 1789427, 884120, 1398431],
+                            "title": "万能账户价值"
+                        },
+                        {
+                            "values": [538784, 1232514, 2445380, 801621, 1281750, 825978, 1946681, 1041374, 1555685],
+                            "title": "生存总利益"
+                        },
+                        {
+                            "values": [581530, 1275260, 2488126, 844367, 1324496, 868724, 1989427, 1084120, 1598431],
+                            "title": "身故总利益"
+                        }],
+                        "age": "85"
+                    },
+                    {
+                        "list": [
+                        {
+                            "values": [156740, 156740, 156740],
+                            "title": "主险现价"
+                        },
+                        {
+                            "values": [2154, 2154, 2154],
+                            "title": "年度生存金"
+                        },
+                        {
+                            "values": [0, 3633, 6358],
+                            "title": "年度红利"
+                        },
+                        {
+                            "values": [395195, 1129674, 2434400, 675614, 1194249, 694726, 1902907, 919375, 1470219],
+                            "title": "万能账户价值"
+                        },
+                        {
+                            "values": [554089, 1288568, 2593294, 834508, 1353143, 853620, 2061801, 1078269, 1629113],
+                            "title": "生存总利益"
+                        },
+                        {
+                            "values": [595195, 1329674, 2634400, 875614, 1394249, 894726, 2102907, 1119375, 1670219],
+                            "title": "身故总利益"
+                        }],
+                        "age": "86"
+                    },
+                    {
+                        "list": [
+                        {
+                            "values": [158260, 158260, 158260],
+                            "title": "主险现价"
+                        },
+                        {
+                            "values": [2154, 2154, 2154],
+                            "title": "年度生存金"
+                        },
+                        {
+                            "values": [0, 3651, 6390],
+                            "title": "年度红利"
+                        },
+                        {
+                            "values": [409269, 1186557, 2589487, 708268, 1268187, 721529, 2023216, 955724, 1545274],
+                            "title": "万能账户价值"
+                        },
+                        {
+                            "values": [569683, 1346971, 2749901, 868682, 1428601, 881943, 2183630, 1116138, 1705688],
+                            "title": "生存总利益"
+                        },
+                        {
+                            "values": [609269, 1386557, 2789487, 908268, 1468187, 921529, 2223216, 1155724, 1745274],
+                            "title": "身故总利益"
+                        }],
+                        "age": "87"
+                    },
+                    {
+                        "list": [
+                        {
+                            "values": [159650, 159650, 159650],
+                            "title": "主险现价"
+                        },
+                        {
+                            "values": [2154, 2154, 2154],
+                            "title": "年度生存金"
+                        },
+                        {
+                            "values": [0, 3669, 6421],
+                            "title": "年度红利"
+                        },
+                        {
+                            "values": [423766, 1246019, 2753913, 742391, 1346562, 749155, 2150763, 993197, 1623741],
+                            "title": "万能账户价值"
+                        },
+                        {
+                            "values": [585570, 1407823, 2915717, 904195, 1508366, 910959, 2312567, 1155001, 1785545],
+                            "title": "生存总利益"
+                        },
+                        {
+                            "values": [623766, 1446019, 2953913, 942391, 1546562, 949155, 2350763, 1193197, 1823741],
+                            "title": "身故总利益"
+                        }],
+                        "age": "88"
+                    },
+                    {
+                        "list": [
+                        {
+                            "values": [160900, 160900, 160900],
+                            "title": "主险现价"
+                        },
+                        {
+                            "values": [2154, 2154, 2154],
+                            "title": "年度生存金"
+                        },
+                        {
+                            "values": [0, 3685, 6449],
+                            "title": "年度红利"
+                        },
+                        {
+                            "values": [438697, 1308176, 2928238, 778049, 1429639, 777628, 2285981, 1031825, 1705770],
+                            "title": "万能账户价值"
+                        },
+                        {
+                            "values": [601751, 1471230, 3091292, 941103, 1592693, 940682, 2449035, 1194879, 1868824],
+                            "title": "生存总利益"
+                        },
+                        {
+                            "values": [638697, 1508176, 3128238, 978049, 1629639, 977628, 2485981, 1231825, 1905770],
+                            "title": "身故总利益"
+                        }],
+                        "age": "89"
+                    },
+                    {
+                        "list": [
+                        {
+                            "values": [161980, 161980, 161980],
+                            "title": "主险现价"
+                        },
+                        {
+                            "values": [2154, 2154, 2154],
+                            "title": "年度生存金"
+                        },
+                        {
+                            "values": [0, 3700, 6475],
+                            "title": "年度红利"
+                        },
+                        {
+                            "values": [454077, 1373146, 3113052, 815312, 1517701, 806971, 2429330, 1071642, 1791521],
+                            "title": "万能账户价值"
+                        },
+                        {
+                            "values": [618211, 1537280, 3277186, 979446, 1681835, 971105, 2593464, 1235776, 1955655],
+                            "title": "生存总利益"
+                        },
+                        {
+                            "values": [654077, 1573146, 3313052, 1015312, 1717701, 1006971, 2629330, 1271642, 1991521],
+                            "title": "身故总利益"
+                        }],
+                        "age": "90"
+                    },
+                    {
+                        "list": [
+                        {
+                            "values": [162870, 162870, 162870],
+                            "title": "主险现价"
+                        },
+                        {
+                            "values": [2154, 2154, 2154],
+                            "title": "年度生存金"
+                        },
+                        {
+                            "values": [0, 3714, 6499],
+                            "title": "年度红利"
+                        },
+                        {
+                            "values": [469918, 1441055, 3308983, 854252, 1611046, 837210, 2581296, 1112680, 1881158],
+                            "title": "万能账户价值"
+                        },
+                        {
+                            "values": [634942, 1606079, 3474007, 1019276, 1776070, 1002234, 2746320, 1277704, 2046182],
+                            "title": "生存总利益"
+                        },
+                        {
+                            "values": [669918, 1641055, 3508983, 1054252, 1811046, 1037210, 2781296, 1312680, 2081158],
+                            "title": "身故总利益"
+                        }],
+                        "age": "91"
+                    },
+                    {
+                        "list": [
+                        {
+                            "values": [163520, 163520, 163520],
+                            "title": "主险现价"
+                        },
+                        {
+                            "values": [2154, 2154, 2154],
+                            "title": "年度生存金"
+                        },
+                        {
+                            "values": [0, 3726, 6520],
+                            "title": "年度红利"
+                        },
+                        {
+                            "values": [486234, 1512035, 3516695, 894945, 1709992, 868371, 2742394, 1154974, 1974853],
+                            "title": "万能账户价值"
+                        },
+                        {
+                            "values": [651908, 1677709, 3682369, 1060619, 1875666, 1034045, 2908068, 1320648, 2140527],
+                            "title": "生存总利益"
+                        },
+                        {
+                            "values": [686234, 1712035, 3716695, 1094945, 1909992, 1068371, 2942394, 1354974, 2174853],
+                            "title": "身故总利益"
+                        }],
+                        "age": "92"
+                    },
+                    {
+                        "list": [
+                        {
+                            "values": [163870, 163870, 163870],
+                            "title": "主险现价"
+                        },
+                        {
+                            "values": [2154, 2154, 2154],
+                            "title": "年度生存金"
+                        },
+                        {
+                            "values": [0, 3735, 6537],
+                            "title": "年度红利"
+                        },
+                        {
+                            "values": [503040, 1586221, 3736892, 937468, 1814875, 900478, 2913170, 1198558, 2072786],
+                            "title": "万能账户价值"
+                        },
+                        {
+                            "values": [669064, 1752245, 3902916, 1103492, 1980899, 1066502, 3079194, 1364582, 2238810],
+                            "title": "生存总利益"
+                        },
+                        {
+                            "values": [703040, 1786221, 3936892, 1137468, 2014875, 1100478, 3113170, 1398558, 2272786],
+                            "title": "身故总利益"
+                        }],
+                        "age": "93"
+                    },
+                    {
+                        "list": [
+                        {
+                            "values": [163860, 163860, 163860],
+                            "title": "主险现价"
+                        },
+                        {
+                            "values": [2154, 2154, 2154],
+                            "title": "年度生存金"
+                        },
+                        {
+                            "values": [0, 3743, 6551],
+                            "title": "年度红利"
+                        },
+                        {
+                            "values": [520349, 1663756, 3970319, 981905, 1926050, 933559, 3094204, 1243467, 2175145],
+                            "title": "万能账户价值"
+                        },
+                        {
+                            "values": [686363, 1829770, 4136333, 1147919, 2092064, 1099573, 3260218, 1409481, 2341159],
+                            "title": "生存总利益"
+                        },
+                        {
+                            "values": [720349, 1863756, 4170319, 1181905, 2126050, 1133559, 3294204, 1443467, 2375145],
+                            "title": "身故总利益"
+                        }],
+                        "age": "94"
+                    },
+                    {
+                        "list": [
+                        {
+                            "values": [163370, 163370, 163370],
+                            "title": "主险现价"
+                        },
+                        {
+                            "values": [2154, 2154, 2154],
+                            "title": "年度生存金"
+                        },
+                        {
+                            "values": [0, 3747, 6558],
+                            "title": "年度红利"
+                        },
+                        {
+                            "values": [538179, 1744788, 4217765, 1028342, 2043897, 967641, 3286107, 1289737, 2282123],
+                            "title": "万能账户价值"
+                        },
+                        {
+                            "values": [703703, 1910312, 4383289, 1193866, 2209421, 1133165, 3451631, 1455261, 2447647],
+                            "title": "生存总利益"
+                        },
+                        {
+                            "values": [738179, 1944788, 4417765, 1228342, 2243897, 1167641, 3486107, 1489737, 2482123],
+                            "title": "身故总利益"
+                        }],
+                        "age": "95"
+                    },
+                    {
+                        "list": [
+                        {
+                            "values": [162260, 162260, 162260],
+                            "title": "主险现价"
+                        },
+                        {
+                            "values": [2154, 2154, 2154],
+                            "title": "年度生存金"
+                        },
+                        {
+                            "values": [0, 3747, 6558],
+                            "title": "年度红利"
+                        },
+                        {
+                            "values": [556543, 1829471, 4480067, 1076868, 2168814, 1002749, 3489530, 1337403, 2393923],
+                            "title": "万能账户价值"
+                        },
+                        {
+                            "values": [720957, 1993885, 4644481, 1241282, 2333228, 1167163, 3653944, 1501817, 2558337],
+                            "title": "生存总利益"
+                        },
+                        {
+                            "values": [756543, 2029471, 4680067, 1276868, 2368814, 1202749, 3689530, 1537403, 2593923],
+                            "title": "身故总利益"
+                        }],
+                        "age": "96"
+                    },
+                    {
+                        "list": [
+                        {
+                            "values": [160320, 160320, 160320],
+                            "title": "主险现价"
+                        },
+                        {
+                            "values": [2154, 2154, 2154],
+                            "title": "年度生存金"
+                        },
+                        {
+                            "values": [0, 3741, 6547],
+                            "title": "年度红利"
+                        },
+                        {
+                            "values": [575458, 1917965, 4758106, 1127578, 2301226, 1038910, 3705157, 1386499, 2510754],
+                            "title": "万能账户价值"
+                        },
+                        {
+                            "values": [737932, 2080439, 4920580, 1290052, 2463700, 1201384, 3867631, 1548973, 2673228],
+                            "title": "生存总利益"
+                        },
+                        {
+                            "values": [775458, 2117965, 4958106, 1327578, 2501226, 1238910, 3905157, 1586499, 2710754],
+                            "title": "身故总利益"
+                        }],
+                        "age": "97"
+                    },
+                    {
+                        "list": [
+                        {
+                            "values": [157230, 157230, 157230],
+                            "title": "主险现价"
+                        },
+                        {
+                            "values": [2154, 2154, 2154],
+                            "title": "年度生存金"
+                        },
+                        {
+                            "values": [0, 3726, 6520],
+                            "title": "年度红利"
+                        },
+                        {
+                            "values": [594940, 2010434, 5052816, 1180570, 2441583, 1076149, 3933716, 1437057, 2632831],
+                            "title": "万能账户价值"
+                        },
+                        {
+                            "values": [754324, 2169818, 5212200, 1339954, 2600967, 1235533, 4093100, 1596441, 2792215],
+                            "title": "生存总利益"
+                        },
+                        {
+                            "values": [794940, 2210434, 5252816, 1380570, 2641583, 1276149, 4133716, 1637057, 2832831],
+                            "title": "身故总利益"
+                        }],
+                        "age": "98"
+                    },
+                    {
+                        "list": [
+                        {
+                            "values": [152520, 152520, 152520],
+                            "title": "主险现价"
+                        },
+                        {
+                            "values": [2154, 2154, 2154],
+                            "title": "年度生存金"
+                        },
+                        {
+                            "values": [0, 3696, 6469],
+                            "title": "年度红利"
+                        },
+                        {
+                            "values": [615007, 2107048, 5365180, 1235947, 2590361, 1114490, 4175972, 1489103, 2760374],
+                            "title": "万能账户价值"
+                        },
+                        {
+                            "values": [769681, 2261722, 5519854, 1390621, 2745035, 1269164, 4330646, 1643777, 2915048],
+                            "title": "生存总利益"
+                        },
+                        {
+                            "values": [815007, 2307048, 5565180, 1435947, 2790361, 1314490, 4375972, 1689103, 2960374],
+                            "title": "身故总利益"
+                        }],
+                        "age": "99"
+                    },
+                    {
+                        "list": [
+                        {
+                            "values": [145490, 145490, 145490],
+                            "title": "主险现价"
+                        },
+                        {
+                            "values": [2154, 2154, 2154],
+                            "title": "年度生存金"
+                        },
+                        {
+                            "values": [0, 3645, 6379],
+                            "title": "年度红利"
+                        },
+                        {
+                            "values": [635676, 2207979, 5696231, 1293815, 2748066, 1153951, 4432732, 1542658, 2893602],
+                            "title": "万能账户价值"
+                        },
+                        {
+                            "values": [783320, 2355623, 5843875, 1441459, 2895710, 1301595, 4580376, 1690302, 3041246],
+                            "title": "生存总利益"
+                        },
+                        {
+                            "values": [835676, 2407979, 5896231, 1493815, 2948066, 1353951, 4632732, 1742658, 3093602],
+                            "title": "身故总利益"
+                        }],
+                        "age": "100"
+                    },
+                    {
+                        "list": [
+                        {
+                            "values": [135010, 135010, 135010],
+                            "title": "主险现价"
+                        },
+                        {
+                            "values": [2154, 2154, 2154],
+                            "title": "年度生存金"
+                        },
+                        {
+                            "values": [0, 3556, 6224],
+                            "title": "年度红利"
+                        },
+                        {
+                            "values": [656964, 2313398, 6047050, 1354288, 2915233, 1194543, 4704843, 1597727, 3032731],
+                            "title": "万能账户价值"
+                        },
+                        {
+                            "values": [794128, 2450562, 6184214, 1491452, 3052397, 1331707, 4842007, 1734891, 3169895],
+                            "title": "生存总利益"
+                        },
+                        {
+                            "values": [856964, 2513398, 6247050, 1554288, 3115233, 1394543, 4904843, 1797727, 3232731],
+                            "title": "身故总利益"
+                        }],
+                        "age": "101"
+                    },
+                    {
+                        "list": [
+                        {
+                            "values": [119320, 119320, 119320],
+                            "title": "主险现价"
+                        },
+                        {
+                            "values": [2154, 2154, 2154],
+                            "title": "年度生存金"
+                        },
+                        {
+                            "values": [0, 3405, 5959],
+                            "title": "年度红利"
+                        },
+                        {
+                            "values": [678892, 2423469, 6418754, 1417482, 3092430, 1236262, 4993187, 1654289, 3177959],
+                            "title": "万能账户价值"
+                        },
+                        {
+                            "values": [800366, 2544943, 6540228, 1538956, 3213904, 1357736, 5114661, 1775763, 3299433],
+                            "title": "生存总利益"
+                        },
+                        {
+                            "values": [878892, 2623469, 6618754, 1617482, 3292430, 1436262, 5193187, 1854289, 3377959],
+                            "title": "身故总利益"
+                        }],
+                        "age": "102"
+                    },
+                    {
+                        "list": [
+                        {
+                            "values": [95480, 95480, 95480],
+                            "title": "主险现价"
+                        },
+                        {
+                            "values": [2154, 2154, 2154],
+                            "title": "年度生存金"
+                        },
+                        {
+                            "values": [0, 3139, 5494],
+                            "title": "年度红利"
+                        },
+                        {
+                            "values": [701477, 2538335, 6812479, 1483520, 3280259, 1279075, 5298671, 1712274, 3329446],
+                            "title": "万能账户价值"
+                        },
+                        {
+                            "values": [799111, 2635969, 6910113, 1581154, 3377893, 1376709, 5396305, 1809908, 3427080],
+                            "title": "生存总利益"
+                        },
+                        {
+                            "values": [901477, 2738335, 7012479, 1683520, 3480259, 1479075, 5498671, 1912274, 3529446],
+                            "title": "身故总利益"
+                        }],
+                        "age": "103"
+                    },
+                    {
+                        "list": [
+                        {
+                            "values": [58570, 58570, 58570],
+                            "title": "主险现价"
+                        },
+                        {
+                            "values": [2154, 2154, 2154],
+                            "title": "年度生存金"
+                        },
+                        {
+                            "values": [0, 2660, 4656],
+                            "title": "年度红利"
+                        },
+                        {
+                            "values": [724740, 2658092, 7229336, 1552529, 3479358, 1322900, 5622202, 1771520, 3487263],
+                            "title": "万能账户价值"
+                        },
+                        {
+                            "values": [785464, 2718816, 7290060, 1613253, 3540082, 1383624, 5682926, 1832244, 3547987],
+                            "title": "生存总利益"
+                        },
+                        {
+                            "values": [924740, 2858092, 7429336, 1752529, 3679358, 1522900, 5822202, 1971520, 3687263],
+                            "title": "身故总利益"
+                        }],
+                        "age": "104"
+                    },
+                    {
+                        "list": [
+                        {
+                            "values": [0, 0, 0],
+                            "title": "主险现价"
+                        },
+                        {
+                            "values": [2154, 2154, 2154],
+                            "title": "年度生存金"
+                        },
+                        {
+                            "values": [0, 1762, 3083],
+                            "title": "年度红利"
+                        },
+                        {
+                            "values": [748701, 2782737, 7670314, 1624644, 3690403, 1367546, 5964638, 1831680, 3651307],
+                            "title": "万能账户价值"
+                        },
+                        {
+                            "values": [750855, 2784891, 7672468, 1626798, 3692557, 1369700, 5966792, 1833834, 3653461],
+                            "title": "生存总利益"
+                        },
+                        {
+                            "values": [948701, 2982737, 7870314, 1824644, 3890403, 1567546, 6164638, 2031680, 3851307],
+                            "title": "身故总利益"
+                        }],
+                        "age": "105"
+                    }],
+                    "not_has_bonus": false,
+                    "ages": [31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105],
+                    "only_one_bonu": false
+                },
+                "pname": "汇赢年金",
+                "is_nj_bonus": false,
+                "IS_ZYRS": false,
+                "plan_id": "59128b419161ec972100000b"
+            }
+        }
+    }
+}
